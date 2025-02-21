@@ -17,5 +17,11 @@ The **Gym Subscription Management System** is a Java-based desktop application w
 
 - **Java** – Core programming language.  
 - **Swing** – Used for building the graphical user interface.  
-- **SQLite** – Manages user and subscription data.  
+- **SQLite** – Manages user and subscription data.
+    
+## Demo Video
+
+Watch the demo video of the Gym Subscription Management System:  
+[🎥 Click here to watch the demo](https://drive.google.com/file/d/13EinF_LghB0kR4clMsHPWL0l6xPw8kPs/view?usp=drive_link)
+
 
